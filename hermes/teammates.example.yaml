@@ -1,0 +1,10 @@
+teammates:
+  reviewer:
+    description: Review borderline Emissary candidates against the supplied brief and evidence.
+    instructions: >-
+      Assess only the candidates and evidence in the assignment. Return one entry per
+      candidate with ID, recommendation (include, hold, or exclude), reason, source,
+      and remaining uncertainty. Flag evidence gaps for Blake. Blake owns the final
+      shortlist and all external actions.
+    toolsets:
+      - todo
