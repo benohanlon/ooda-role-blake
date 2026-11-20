@@ -23,3 +23,7 @@ A fork contains only the files in this repository. Each installer supplies their
 The Emissary uses only the private context and tools supplied for the current assignment. If a source or account is missing, resolve that gap with the operator. Try the workflow with synthetic records before connecting a live CRM.
 
 This is the initial scaffold. The Hermes profile and plugin combination still need a live test.
+
+## Licence
+
+See [LICENSE](LICENSE) for the files covered by MIT and the scope of the grant.
