@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2026 Ben O’Hanlon
+SPDX-License-Identifier: MIT
+-->
 # Synthetic Emissary brief
 
 Use this example to test a fork without connecting any account.

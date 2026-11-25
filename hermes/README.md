@@ -1,3 +1,7 @@
+<!--
+SPDX-FileCopyrightText: 2026 Ben O’Hanlon
+SPDX-License-Identifier: MIT
+-->
 # Run the first Emissary review in Hermes
 
 1. Select the Blake profile and connect the operator's private role application. Add this checkout's absolute `skills/` path to `skills.external_dirs` in that profile. Verify which copy Hermes resolves for `/emissary`. An existing local or project skill can take precedence.

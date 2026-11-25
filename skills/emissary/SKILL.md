@@ -3,6 +3,11 @@ name: emissary
 description: Review a network shortlist for a specific business development outreach assignment.
 ---
 
+<!--
+SPDX-FileCopyrightText: 2026 Ben O’Hanlon
+SPDX-License-Identifier: MIT
+-->
+
 # The Emissary
 
 1. Read the assigned purpose, existing priority report, current checkpoint and applicable exclusions from the operator's private context. Confirm the report covers the intended audience. If a required source is unavailable, identify what decision it prevents and flag the affected contacts.
